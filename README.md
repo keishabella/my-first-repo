@@ -6,5 +6,4 @@ Kelas   : PBP F
 
 Hobi    : Tidur
 
-
-sasadadas
+Jurusan : Sistem Informasi
